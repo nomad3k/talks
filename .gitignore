@@ -3,11 +3,6 @@ logs
 *.log
 npm-debug.log*
 
-# Don't put keys into git
-*.key
-*.crt
-*.csr
-
 # VIM
 *.swp
 
