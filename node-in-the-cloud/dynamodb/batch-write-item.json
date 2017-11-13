@@ -1,0 +1,40 @@
+{
+  "nottsjs__cheese": [
+    {
+      "PutRequest": {
+        "Item": {
+          "cheese_id": { "S": "36805455-8de4-41de-a8cb-9a3525ca15b8" },
+          "cheese_name": { "S": "Brie" },
+          "cheese_description": { "S": "Brie is a soft cow''s-milk cheese named after Brie, the French region from which it originated (roughly corresponding to the modern departement of Seine-et-Marne). It is pale in color with a slight grayish tinge under a rind of white mold. The rind is typically eaten, with its flavor depending largely upon the ingredients used and its manufacturing environment." }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "cheese_id": { "S": "a7343891-d01c-4022-bf10-d7da093b0035" },
+          "cheese_name": { "S": "Camembert" },
+          "cheese_description": { "S": "Camembert is a soft, creamy, surface-ripened cow's milk cheese. It was first made in the late 18th century at Camembert, Normandy, in northern France." }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "cheese_id": { "S": "b1917a01-ec65-4248-8626-e7d3cb660a76" },
+          "cheese_name": { "S": "Cheddar" },
+          "cheese_description": { "S": "Cheddar cheese is a relatively hard, off-white (or orange if spices such as annatto are added), sometimes sharp-tasting (i.e., bitter[1]), natural cheese. Originating in the English village of Cheddar in Somerset,[2] cheeses of this style are produced beyond this region and in several countries around the world." }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "cheese_id": { "S": "f38bf3d3-3383-4231-a546-dc5b0015050e" },
+          "cheese_name": { "S": "Stilton" },
+          "cheese_description": { "S": "Stilton is an English cheese, produced in two varieties: Blue, known for its characteristic strong smell and taste, and the lesser-known White. Both have been granted the status of a protected designation of origin by the European Commission, which requires that only cheese produced in the three counties of Derbyshire, Leicestershire, and Nottinghamshire and made according to a strict code may be called 'Stilton'. Thus cheese made in the village of Stilton which is now in Cambridgeshire (from where its name was derived in the 18th century) could not be sold as 'Stilton'." }
+        }
+      }
+    }
+  ]
+}
